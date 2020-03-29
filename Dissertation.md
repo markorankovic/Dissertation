@@ -88,19 +88,35 @@ For future development, more advanced faces will be possible to reconstruct such
 
 ## References
 [1] https://www.youtube.com/watch?v=KULkSwLk62I&t=141s
+
 [2] https://www.youtube.com/watch?v=ppsqbOL073U
+
 [3] https://ece.uwaterloo.ca/~z70wang/publications/SPM09.pdf
+
 [4] https://arxiv.org/abs/1705.02438
+
 [5] https://www.coursera.org/learn/introduction-tensorflow/lecture/JSKji/what-are-convolutions-and-pooling
+
 [6] https://zpascal.net/cvpr2018/Chen_FSRNet_End-to-End_Learning_CVPR_2018_paper.pdf
+
 [7] https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
+
 [8] https://www.coursera.org/learn/neural-networks-deep-learning/lecture/Z8j0R/binary-classification
+
 [9] https://www.youtube.com/watch?v=sDv4f4s2SB8
+
 [10] https://www.youtube.com/watch?v=dCKbRCUyop8
+
 [11] https://arxiv.org/abs/1812.04948
+
 [12] https://www.youtube.com/watch?v=3-UDwk1U77s
+
 [13] https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f
+
 [14] https://github.com/songboning/GAN/blob/master/Doc/Learning%20Generative%20Adversarial%20Networks.pdf page 68-70
+
 [15] https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148
+
 [16] https://www.academia.edu/38760533/Machine_Learning_for_Absolute_Beginners_A_Plain_English_Introduction
+
 [17] https://github.com/eriklindernoren/Keras-GAN/blob/master/README.md
