@@ -1,5 +1,7 @@
 # Dissertation
 
+Background Agnosticism to Achieve Optimal Face Super Resolution, by Marko Rankovic
+
 This page lists a bundle of things connected to my thesis such as results for Outcomes & Discussion.
 
 The evidence directory has a subdirectories for logs that were obtained from training the ESRGAN, along with screenshots of some of the results.
