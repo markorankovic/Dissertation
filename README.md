@@ -1,4 +1,4 @@
-# Dissertation
+# Thesis
 
 Background Agnosticism to Achieve Optimal Face Super Resolution, by Marko Rankovic
 
